@@ -1,5 +1,8 @@
 # WP Snippet: InPost Metabox WooCommerce
 
+
+> **🇵🇱 [Kliknij tutaj aby przeczytać dokumentację po polsku](README.pl.md)**
+
 Extends WooCommerce InPost plugin functionality by adding dedicated metabox on order edit page. Displays selected parcel locker information in easy-to-copy format for store managers.
 
 ## Features

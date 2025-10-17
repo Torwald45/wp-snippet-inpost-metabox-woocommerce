@@ -7,7 +7,7 @@
  * information in easy-to-copy format for store managers.
  * 
  * @author      Torwald45
- * @link        https://github.com/Torwald45/WP-Metabox-Woo-Numer-Paczkomatu
+ * @link        https://github.com/Torwald45/wp-snippet-inpost-metabox-woocommerce
  * @license     GPL-2.0-or-later
  * @version     2.0.0
  */
